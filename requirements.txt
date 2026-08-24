@@ -1,0 +1,2 @@
+# Runtime dependencies: NONE — the scanner is pure Python stdlib.
+# Optional dev tools: pytest (tests), ruff (lint).
