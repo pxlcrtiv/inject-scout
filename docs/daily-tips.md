@@ -11,3 +11,8 @@ System prompts must be authored by you, period. Fetched text belongs in a clearl
 
 Relying on 'ignore everything before this marker' wording is prompting; splitting fields at the API layer is engineering. Do the latter.
 
+
+## 2026-08-26 — Tip of the day: Assume your system prompt will leak
+
+Design prompts with no secrets in them. Anything you wouldn't post in a blog should not live in the system prompt.
+
