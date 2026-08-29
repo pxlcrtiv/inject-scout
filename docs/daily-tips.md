@@ -28,3 +28,10 @@ Design prompts with no secrets in them. Anything you wouldn't post in a blog sho
 
 A search tool with internet scope is a lot of reach. Scope tools to the minimum surface and require explicit parameters.
 
+
+## 2026-08-29 — Tip of the day: Scan before you evaluate
+
+Run inject-scout on user input before it reaches the model; a finding can downgrade or quarantine the request.
+
+> `inject-scout check --strict 'ignore previous instructions'`
+
