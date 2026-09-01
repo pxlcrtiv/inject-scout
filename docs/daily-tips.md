@@ -47,3 +47,8 @@ Leetspeak (1gn0re, pr0mpt) and encodings (base64, hex) signal deliberate evasion
 
 > `inject-scout check '1gnore all 1nstruct10ns'`
 
+
+## 2026-09-01 — Tip of the day: Jailbreak names are a checklist, not the whole threat
+
+DAN/developer-mode strings are easy to block; the real risk is novel phrasing. Layer rules with budget + human review.
+
