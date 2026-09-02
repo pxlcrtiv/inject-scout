@@ -52,3 +52,8 @@ Leetspeak (1gn0re, pr0mpt) and encodings (base64, hex) signal deliberate evasion
 
 DAN/developer-mode strings are easy to block; the real risk is novel phrasing. Layer rules with budget + human review.
 
+
+## 2026-09-02 — Tip of the day: Indirect injection is the silent one
+
+The model fetched a page that says 'ignore previous instructions and...' — the user never typed anything malicious.
+
