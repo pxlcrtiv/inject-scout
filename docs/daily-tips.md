@@ -98,3 +98,8 @@ Store the matched snippet (truncated) with findings — incident response needs 
 
 > `inject-scout check --format json '<text>'`
 
+
+## 2026-09-09 — Tip of the day: Context windows grew; so did blobs
+
+Long-context apps ingest more untrusted text per request. Scan the whole context, not just the last message.
+
