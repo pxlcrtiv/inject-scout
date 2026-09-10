@@ -103,3 +103,8 @@ Store the matched snippet (truncated) with findings — incident response needs 
 
 Long-context apps ingest more untrusted text per request. Scan the whole context, not just the last message.
 
+
+## 2026-09-10 — Tip of the day: Multi-turn = multi-vector
+
+Attacks assemble over turns ('say yes first, then...'). Keep per-session risk scores, not just per-message scans.
+
