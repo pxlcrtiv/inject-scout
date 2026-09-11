@@ -108,3 +108,8 @@ Long-context apps ingest more untrusted text per request. Scan the whole context
 
 Attacks assemble over turns ('say yes first, then...'). Keep per-session risk scores, not just per-message scans.
 
+
+## 2026-09-11 — Tip of the day: Fine-tune, don't prompt-guard
+
+If you can, bake refusal into the model weights; prompt guards are a control plane, not a defense.
+
