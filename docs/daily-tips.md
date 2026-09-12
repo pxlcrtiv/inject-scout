@@ -113,3 +113,8 @@ Attacks assemble over turns ('say yes first, then...'). Keep per-session risk sc
 
 If you can, bake refusal into the model weights; prompt guards are a control plane, not a defense.
 
+
+## 2026-09-12 — Tip of the day: Suggestion formatting matters
+
+Findings that tell the developer what to change get fixed. Findings that only say 'something is wrong' get ignored.
+
