@@ -118,3 +118,10 @@ If you can, bake refusal into the model weights; prompt guards are a control pla
 
 Findings that tell the developer what to change get fixed. Findings that only say 'something is wrong' get ignored.
 
+
+## 2026-09-13 — Tip of the day: Audit your own templates
+
+Your production prompt template is the highest-value scan target. Run the scanner over it weekly.
+
+> `inject-scout scan . --strict`
+
