@@ -125,3 +125,8 @@ Your production prompt template is the highest-value scan target. Run the scanne
 
 > `inject-scout scan . --strict`
 
+
+## 2026-09-14 — Tip of the day: Document the threat model
+
+A README table of which categories you block, warn, and ignore is the fastest way for reviewers to trust the scanner.
+
