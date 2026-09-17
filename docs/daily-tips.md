@@ -144,3 +144,8 @@ Anything that reaches your LLM via users, fetched pages, or emails can carry an 
 
 > `inject-scout check '<text>'`
 
+
+## 2026-09-17 — Tip of the day: Never splice fetched content into system prompts
+
+System prompts must be authored by you, period. Fetched text belongs in a clearly delimited data field the model is told to treat as data.
+
