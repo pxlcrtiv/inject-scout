@@ -149,3 +149,8 @@ Anything that reaches your LLM via users, fetched pages, or emails can carry an 
 
 System prompts must be authored by you, period. Fetched text belongs in a clearly delimited data field the model is told to treat as data.
 
+
+## 2026-09-18 — Tip of the day: Use code, not prompting, for boundaries
+
+Relying on 'ignore everything before this marker' wording is prompting; splitting fields at the API layer is engineering. Do the latter.
+
