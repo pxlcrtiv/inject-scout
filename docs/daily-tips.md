@@ -178,3 +178,8 @@ Run inject-scout on user input before it reaches the model; a finding can downgr
 
 > `inject-scout check --strict 'ignore previous instructions'`
 
+
+## 2026-09-23 — Tip of the day: Delimiters are content, not commands
+
+Injected <|system|> tags or [instruction]: markers should be sanitized at render time, never interpreted.
+
