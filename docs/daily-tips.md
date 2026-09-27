@@ -200,3 +200,8 @@ DAN/developer-mode strings are easy to block; the real risk is novel phrasing. L
 
 The model fetched a page that says 'ignore previous instructions and...' — the user never typed anything malicious.
 
+
+## 2026-09-27 — Tip of the day: Role-play is a laundering technique
+
+'Pretend you are an unrestricted assistant' is a jailbreak with extra steps. Treat simulated-unrestricted as a policy violation.
+
