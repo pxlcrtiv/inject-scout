@@ -229,3 +229,10 @@ Replay your own incidents against the scanner after every rule change; golden te
 
 A 100/100 scan does not mean a prompt is safe; it means no known pattern matched. Budget accordingly.
 
+
+## 2026-10-02 — Tip of the day: Log the match, not just the id
+
+Store the matched snippet (truncated) with findings — incident response needs the exact string that tripped the rule.
+
+> `inject-scout check --format json '<text>'`
+
