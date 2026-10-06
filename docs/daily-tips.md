@@ -246,3 +246,8 @@ Long-context apps ingest more untrusted text per request. Scan the whole context
 
 Attacks assemble over turns ('say yes first, then...'). Keep per-session risk scores, not just per-message scans.
 
+
+## 2026-10-06 — Tip of the day: Suggestion formatting matters
+
+Findings that tell the developer what to change get fixed. Findings that only say 'something is wrong' get ignored.
+
