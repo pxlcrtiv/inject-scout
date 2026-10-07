@@ -251,3 +251,10 @@ Attacks assemble over turns ('say yes first, then...'). Keep per-session risk sc
 
 Findings that tell the developer what to change get fixed. Findings that only say 'something is wrong' get ignored.
 
+
+## 2026-10-07 — Tip of the day: Audit your own templates
+
+Your production prompt template is the highest-value scan target. Run the scanner over it weekly.
+
+> `inject-scout scan . --strict`
+
