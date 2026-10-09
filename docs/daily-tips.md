@@ -263,3 +263,10 @@ Your production prompt template is the highest-value scan target. Run the scanne
 
 A README table of which categories you block, warn, and ignore is the fastest way for reviewers to trust the scanner.
 
+
+## 2026-10-09 — Tip of the day: Attack corpora rot
+
+New jailbreak families appear constantly. Refresh the corpus quarterly; the demo command shows exactly what regressed.
+
+> `inject-scout demo --format json`
+
