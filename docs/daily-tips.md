@@ -270,3 +270,10 @@ New jailbreak families appear constantly. Refresh the corpus quarterly; the demo
 
 > `inject-scout demo --format json`
 
+
+## 2026-10-10 — Tip of the day: Treat every prompt as untrusted input
+
+Anything that reaches your LLM via users, fetched pages, or emails can carry an injection. Validate and boundary it like SQL input.
+
+> `inject-scout check '<text>'`
+
