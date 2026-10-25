@@ -357,3 +357,8 @@ Replay your own incidents against the scanner after every rule change; golden te
 
 > `inject-scout demo`
 
+
+## 2026-10-25 — Tip of the day: Scoring is triage, not proof
+
+A 100/100 scan does not mean a prompt is safe; it means no known pattern matched. Budget accordingly.
+
