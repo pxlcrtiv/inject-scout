@@ -485,3 +485,10 @@ The model fetched a page that says 'ignore previous instructions and...' — the
 
 If your app can send HTTP, prompts can too. Allowlist destinations and require user-visible confirmation.
 
+
+## 2026-11-16 — Tip of the day: Strict mode for CI
+
+inject-scout --strict in CI makes a pipeline block on error-level findings — perfect for prompt-template regressions.
+
+> `inject-scout scan ./prompts --strict`
+
