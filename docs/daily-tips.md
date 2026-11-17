@@ -492,3 +492,10 @@ inject-scout --strict in CI makes a pipeline block on error-level findings — p
 
 > `inject-scout scan ./prompts --strict`
 
+
+## 2026-11-17 — Tip of the day: Keep a private attack corpus
+
+Replay your own incidents against the scanner after every rule change; golden tests make regressions impossible to ignore.
+
+> `inject-scout demo`
+
